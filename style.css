@@ -1,0 +1,76 @@
+body {
+    background-image: url("tec_inf.png");
+    background-size: cover;
+    
+}
+
+h1,p {
+    color: aliceblue;
+}
+
+#accordionExample {
+    background-color: rgb(16, 73, 73);
+}
+
+.img-accord {
+    width:250px;
+    height: 250px;
+    border-radius: 20px;
+}
+nav {
+    background-color: #000000;
+    color: aliceblue;
+    padding: 20px;
+    width: 100%;
+    display: inline-flex;
+}
+
+.closesess {
+    margin-left: 90%;
+    border: 1px solid white;
+    width: 150px;
+    height: 30px;
+    border-color:1px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    text-align: center;
+}
+
+footer {
+    background-color: #000000;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: inline-flex;
+}
+
+.divfoot2 {
+    margin-left: 30%;
+}
+
+.divfoot3 {
+    margin-left: 30%;
+}
+
+.accordion-item {
+    background-color: rgb(4, 10, 70);
+    color: rgb(187, 228, 224);
+}
+
+.accordion-header {
+    font-style: initial;
+}
+
+.accordion-button {
+    background-color: rgb(134, 168, 243);
+}
+
+.btn-compra {
+    margin-left: 150px;
+    width: 150px;
+    height: 100px;
+    border-radius: 30px;
+}
